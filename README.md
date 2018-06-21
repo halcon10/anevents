@@ -1,3 +1,1 @@
 # anevents
-Activity & Intents
-
